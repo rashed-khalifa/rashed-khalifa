@@ -1,4 +1,5 @@
-<img width="3551" height="371" alt="banner 4 0" src="https://github.com/user-attachments/assets/72d781dc-6c7a-4068-9091-a3ff6888c750" />
+<img width="1280" height="320" alt="download (1)" src="https://github.com/user-attachments/assets/97453789-4d04-45ea-aa0b-4a82e162d552" />
+
 
 <h1 align="center">Helloooo there I'm Rashed Khalifa</h1>
 
