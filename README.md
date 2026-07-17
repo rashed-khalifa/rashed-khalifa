@@ -13,16 +13,18 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/rashed-khalifa">
-<img src="https://img.shields.io/badge/LinkedIn-C8102E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rashed-khalifa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-C8102E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://https://rashedkhalifa.itch.io">
+<a href="https://rashedkhalifa.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://rashedkhalifa.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-C8102E?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 </a>
 
-<a href="[https://YOURPORTFOLIO.com](https://rashedkhalifa.com)">
-<img src="https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
+
+
