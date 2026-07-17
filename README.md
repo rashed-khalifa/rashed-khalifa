@@ -1,4 +1,4 @@
-<img width="1280" height="320" alt="download (1)" src="https://github.com/user-attachments/assets/97453789-4d04-45ea-aa0b-4a82e162d552" />
+<img width="1280" height="100" alt="download (2)" src="https://github.com/user-attachments/assets/6d6a1505-769e-4152-85c3-7e5f6f44123b" />
 
 
 <h1 align="center">Helloooo there I'm Rashed Khalifa</h1>
