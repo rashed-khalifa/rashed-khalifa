@@ -11,6 +11,19 @@
 
 
 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/rashed-khalifa)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)]([https://yourwebsite.com](https://rashedkhalifa.com/))
+<p align="center">
+
+<a href="www.linkedin.com/in/rashed-khalifa">
+<img src="https://img.shields.io/badge/LinkedIn-C8102E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[https://YOURPORTFOLIO.com](https://rashedkhalifa.itch.io/)">
+<img src="https://img.shields.io/badge/Email-C8102E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="[https://YOURPORTFOLIO.com](https://rashedkhalifa.com)">
+<img src="https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
