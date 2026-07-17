@@ -33,9 +33,6 @@
 </p>
 
 
-<br>
-
-
 <h3 align="center">🧊 3D Art & Modeling</h3>
 
 <p align="center">
@@ -46,12 +43,10 @@
 <img src="https://img.icons8.com/color/96/autodesk-3ds-max.png" width="60" title="3ds Max"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/color/96/adobe-substance-3d.png" width="60" title="Adobe Substance 3D"/>
+<img src="https://img.shields.io/badge/Substance%203D-FF6C37?style=for-the-badge&logo=adobe&logoColor=white" title="Adobe Substance 3D"/>
 
 </p>
 
-
-<br>
 
 
 <h3 align="center">🎨 Design & Illustration</h3>
@@ -68,8 +63,6 @@
 
 </p>
 
-
-<br>
 
 
 <h3 align="center">🎬 Video & Audio Production</h3>
@@ -89,8 +82,6 @@
 
 </p>
 
-
-<br>
 
 
 <h3 align="center">🔥 Skills</h3>
