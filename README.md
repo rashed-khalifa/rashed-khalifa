@@ -8,12 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=Game+Designer;3D+Artist+%26+Modeler;Unity+Developer" />
 </h3>
 
-
-
-
-
-
-
+>
+>
+>
+>
+>
+>
+>
+>
 
 
 <h2 align="center">Contact Me</h2>
