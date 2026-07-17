@@ -27,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-520480?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
 
 </p>
 
