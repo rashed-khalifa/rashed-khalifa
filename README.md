@@ -13,55 +13,96 @@
 
 <h2 align="center">🎮 Tools & Software</h2>
 
-<table align="center">
-<tr>
+<br>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/><br>
-Unity
-</td>
+<h3 align="center">🎮 Game Development</h3>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/><br>
-Unreal
-</td>
+<p align="center">
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
-GitHub
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" title="Unity"/>
+&nbsp;&nbsp;&nbsp;
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br>
-C#
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="60" title="Unreal Engine 5"/>
+&nbsp;&nbsp;&nbsp;
 
-</tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
+&nbsp;&nbsp;&nbsp;
 
-<tr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>
-Photoshop
-</td>
+</p>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50"/><br>
-Illustrator
-</td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/><br>
-Blender
-</td>
+<br>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" width="50"/><br>
-3ds Max
-</td>
 
-</tr>
-</table>
+<h3 align="center">🧊 3D Art & Modeling</h3>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" title="Blender"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/autodesk-3ds-max.png" width="60" title="3ds Max"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/adobe-substance-3d.png" width="60" title="Adobe Substance 3D"/>
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🎨 Design & Illustration</h3>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" title="Photoshop"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" title="Illustrator"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/adobe-lightroom.png" width="60" title="Adobe Lightroom"/>
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🎬 Video & Audio Production</h3>
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" width="60" title="Adobe Premiere Pro"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/davinci-resolve.png" width="60" title="DaVinci Resolve"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/audacity.png" width="60" title="Audacity"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/96/fl-studio.png" width="60" title="FL Studio"/>
+
+</p>
+
+
+<br>
+
+
+<h3 align="center">🔥 Skills</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Game%20Design-C8102E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D%20Modeling-C8102E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level%20Design-C8102E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Environment%20Art-C8102E?style=for-the-badge"/>
+
+</p>
 
 <br><br>
 
