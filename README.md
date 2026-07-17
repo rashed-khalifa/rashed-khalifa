@@ -57,7 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" title="Illustrator"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/color/96/adobe-lightroom.png" width="60" title="Adobe Lightroom"/>
+<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" width="60" title="Adobe Lightroom"/>
 
 </p>
 
