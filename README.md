@@ -42,7 +42,7 @@
 <img src="https://img.icons8.com/color/96/autodesk-3ds-max.png" width="60" title="3ds Max"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.worldvectorlogo.com/logos/substance-3d.svg" width="60" title="Adobe Substance 3D"/>
+<img src="https://img.icons8.com/color/96/substance-3d-designer.png" width="60" title="Adobe Substance 3D"/>
 
 </p>
 
