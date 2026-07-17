@@ -27,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/GitHub-520480?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub" style="filter: invert(1);"/>
 
 </p>
 
@@ -42,7 +42,7 @@
 <img src="https://img.icons8.com/color/96/autodesk-3ds-max.png" width="60" title="3ds Max"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Substance%203D-520480?style=for-the-badge&logo=adobe&logoColor=white" title="Adobe Substance 3D"/>
+<img src="https://cdn.worldvectorlogo.com/logos/substance-3d.svg" width="60" title="Adobe Substance 3D"/>
 
 </p>
 
