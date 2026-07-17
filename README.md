@@ -2,9 +2,15 @@
 
 
 <h1 align="center">
-  Hi 👋 I'm Rashed Khalifa
+  helloooo there I'm Rashed Khalifa
 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=Game+Designer;3D+Artist+%26+Modeler;Unity+Developer" />
 </h3>
+
+
+Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/rashed-khalifa)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black)]([https://yourwebsite.com](https://rashedkhalifa.com/))
