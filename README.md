@@ -42,7 +42,6 @@
 <img src="https://img.icons8.com/color/96/autodesk-3ds-max.png" width="60" title="3ds Max"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/adobe/FF0000" width="60" title="Adobe"/>
 
 </p>
 
