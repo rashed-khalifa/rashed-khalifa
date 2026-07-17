@@ -13,31 +13,55 @@
 
 <h2 align="center">🎮 Tools & Software</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<span style="background-color:white; padding:10px; border-radius:10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
-</span>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/><br>
+Unity
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/><br>
+Unreal
+</td>
 
-<span style="background-color:white; padding:10px; border-radius:10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50"/>
-</span>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
+GitHub
+</td>
 
-&nbsp;&nbsp;
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/><br>
+C#
+</td>
 
-<span style="background-color:white; padding:10px; border-radius:10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</span>
+</tr>
 
-&nbsp;&nbsp;
+<tr>
 
-<span style="background-color:white; padding:10px; border-radius:10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/>
-</span>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>
+Photoshop
+</td>
 
-</p>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50"/><br>
+Illustrator
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50"/><br>
+Blender
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" width="50"/><br>
+3ds Max
+</td>
+
+</tr>
+</table>
 
 <br><br>
 
